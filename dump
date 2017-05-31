@@ -1,0 +1,22 @@
+[
+    {
+    	"vin_number": "QWERTYUUIO10000",
+    	"latitude": "50.44",
+    	"longitude": "30.55"
+    },
+    {
+    	"vin_number": "KJFHDKH45OGJIU98J",
+    	"latitude": "50.44",
+    	"longitude": "30.55"
+    },
+    {
+      	"vin_number": "JSDFH78JSDHFKJH",
+      	"latitude": "50.44",
+      	"longitude": "30.55"
+    },
+    {
+        "vin_number": "QWERTYUUIO10001",
+        "latitude": "50.44",
+        "longitude": "30.55"
+    }
+]
